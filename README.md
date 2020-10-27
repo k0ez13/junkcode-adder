@@ -1,2 +1,2 @@
 # junkcode-adder
-best junk code adder
+This is a most featured junk code adder for c# and c++ 
